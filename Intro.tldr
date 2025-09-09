@@ -36,9 +36,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 4809.359230078745,
-			"y": 690.6100527373992,
-			"lastActivityTimestamp": 1757385383640,
+			"x": 5510.352338521202,
+			"y": 719.1652839077749,
+			"lastActivityTimestamp": 1757386109454,
 			"meta": {}
 		},
 		{
@@ -129,6 +129,45 @@
 			},
 			"parentId": "page:page",
 			"index": "a3gQA",
+			"typeName": "shape"
+		},
+		{
+			"x": 4932.243341194541,
+			"y": 703.3014285934145,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:0fdQ_MDOaSUpT4Wopp7wZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 769.4271240234375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Cadastrar a chave no GitHub em configurações"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe9adbY",
 			"typeName": "shape"
 		},
 		{
@@ -665,12 +704,51 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -2267.589740874616,
-			"y": 231.78235523044657,
-			"z": 0.2247778079208637,
+			"x": -3563.257632882758,
+			"y": -190.51858310922736,
+			"z": 0.2547385078720985,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
+		},
+		{
+			"x": 4932.243341194541,
+			"y": 316.92671508614137,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:imnyU4L3yIwofNtZFSE1C",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 283,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Gerar um nova chave SSH"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe7gM6c",
+			"typeName": "shape"
 		},
 		{
 			"x": 94.75186109985805,
@@ -1242,7 +1320,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:VgIjFlnPgkKyFpWCeY_ob"
+				"shape:0fdQ_MDOaSUpT4Wopp7wZ"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -1427,6 +1505,57 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 4935.347740836382,
+			"y": 1035.8705762065215,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ND7WK9wBGXdsg_1ru1f7y",
+			"type": "geo",
+			"props": {
+				"w": 791.4544421596248,
+				"h": 99.8054812971252,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "git remote set-url origin git@github.com:seu-usuario/nome-do-repo.git"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iFrWWw",
+			"typeName": "shape"
+		},
+		{
 			"x": 4126.385797397765,
 			"y": 212.32084553930179,
 			"rotation": 0,
@@ -1463,6 +1592,52 @@
 			},
 			"parentId": "page:page",
 			"index": "a1aALwtE",
+			"typeName": "shape"
+		},
+		{
+			"x": 4935.347740836382,
+			"y": 543.1285253810802,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4FM4Li_Veso0oKUEf7LEW",
+			"type": "geo",
+			"props": {
+				"w": 595.8619952350255,
+				"h": 80.58333587646484,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "cat ~/.ssh/[chave-gerada.pub]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iF1wmv",
 			"typeName": "shape"
 		},
 		{
@@ -1722,6 +1897,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 4933.702453860297,
+			"y": 212.32084553930179,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:G18plt-RJUUv88tIIt1Ui",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 262.9574677440138,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.9159014043279692,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "No Git Bash:"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1ail8wV",
+			"typeName": "shape"
+		},
+		{
 			"x": 3344.9715301114416,
 			"y": 316.92671508614137,
 			"rotation": 0,
@@ -1758,6 +1972,104 @@
 			},
 			"parentId": "page:page",
 			"index": "aBe5b6rL",
+			"typeName": "shape"
+		},
+		{
+			"x": 4932.243341194541,
+			"y": 985.8651455148129,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:npPWL0zXyg9wqK41Cd8iK",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 787.1771240234375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Caso já esteja conectado via HTTPS, realizar a troca de HTTPS para SSH"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe9Y9dy",
+			"typeName": "shape"
+		},
+		{
+			"x": 4935.347740836382,
+			"y": 362.107274116407,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:M3Pl53pRMebPUG3B_BYY7",
+			"type": "geo",
+			"props": {
+				"w": 595.8619952350255,
+				"h": 80.58333587646484,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ssh-keygen -t ed25519 -C \"seu-email-do-"
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "github"
+								},
+								{
+									"type": "text",
+									"text": "@example.com\""
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iDvW9X",
 			"typeName": "shape"
 		},
 		{
@@ -1883,6 +2195,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 4932.243341194541,
+			"y": 493.1230946893715,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZHGX9w0IobvhtFyzjghD4",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 248.375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Copiar a chave pública"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe9Pvlu",
+			"typeName": "shape"
+		},
+		{
 			"x": 574.8342390271141,
 			"y": 165,
 			"rotation": 0,
@@ -2002,6 +2353,45 @@
 			},
 			"parentId": "page:page",
 			"index": "a0iNreKC",
+			"typeName": "shape"
+		},
+		{
+			"x": 4932.243341194541,
+			"y": 780.2680024179338,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OCXteSTRXkwzm6n3FaI1s",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 624.4791870117188,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Caso queira iniciar/adicionar um novo repositório remoto"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe9VIwK",
 			"typeName": "shape"
 		},
 		{
@@ -2134,6 +2524,57 @@
 			},
 			"parentId": "page:page",
 			"index": "aBeB97Kr",
+			"typeName": "shape"
+		},
+		{
+			"x": 4935.347740836382,
+			"y": 830.2734331096425,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:eRXuXaWndEzbS8YKczToM",
+			"type": "geo",
+			"props": {
+				"w": 734,
+				"h": 99.8054812971252,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "git remote add origin git@github.com:seu-usuario/nome-do-repo.git"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iFaHCs",
 			"typeName": "shape"
 		},
 		{
@@ -2465,7 +2906,7 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:size": "xl",
+				"tldraw:size": "l",
 				"tldraw:font": "serif",
 				"tldraw:textAlign": "start",
 				"tldraw:geo": "rectangle",
@@ -2489,7 +2930,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 1010,
-				"h": 422
+				"h": 322
 			},
 			"insets": [
 				false,
