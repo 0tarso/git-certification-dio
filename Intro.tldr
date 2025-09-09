@@ -1,0 +1,2763 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 4,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 25,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 5,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 3,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 2,
+			"com.tldraw.shape.geo": 10,
+			"com.tldraw.shape.note": 9,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 7,
+			"com.tldraw.shape.highlight": 1,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 3139.2755689951546,
+			"y": 286.4922300792855,
+			"lastActivityTimestamp": 1757381128348,
+			"meta": {}
+		},
+		{
+			"x": 489.0839159138284,
+			"y": 151.03432358082964,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PjRqVJO4XxudG4GKHwPhR",
+			"type": "text",
+			"props": {
+				"color": "light-green",
+				"size": "xl",
+				"w": 24.322917938232422,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.435037864093947,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "x"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1bHA",
+			"typeName": "shape"
+		},
+		{
+			"x": 610.4800672741844,
+			"y": 203.18750953674316,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UlaJ3D2RhalY7duidCkLQ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 295.1770935058594,
+				"font": "sans",
+				"textAlign": "middle",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Plataforma em cloud que permite a "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "colaboração entre desenvolvedores"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a3gQA",
+			"typeName": "shape"
+		},
+		{
+			"x": 723.7443312650485,
+			"y": 174.80209732055664,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:LOR7_NlQebf8FgghbzdZ5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 78.3125,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "GitHub"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a2hGO",
+			"typeName": "shape"
+		},
+		{
+			"x": 2984.7573337219433,
+			"y": 91.24082458787831,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JguzzNdvy_4oqkehYJxOI",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "light-green",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 22.213188836473932,
+					"y": 4.1300296516055823e-14
+				},
+				"end": {
+					"x": 1066.886165038893,
+					"y": 4.1300296516055823e-14
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "dot",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "sans",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a6iJgkLw",
+			"typeName": "shape"
+		},
+		{
+			"x": 3348.0759297532827,
+			"y": 362.107274116407,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Q6f9_Xo93kdYE8w6TbvaO",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git branch"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0i7IcdO",
+			"typeName": "shape"
+		},
+		{
+			"x": 3344.9715301114416,
+			"y": 763.196007877141,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:IotTSy90Ddih1Xf6cv8Sc",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 603.3333740234375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Combina alterações de uma branch com a branch atual"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBeASEhi",
+			"typeName": "shape"
+		},
+		{
+			"x": 3348.0759297532827,
+			"y": 660.448509110644,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:uN6JoFeKcM32abUjZkTr5",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git checkout [nome-da-branch]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iKYByQ",
+			"typeName": "shape"
+		},
+		{
+			"x": 4124.926684732009,
+			"y": 763.196007877141,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:b2CmH5kRyCFiXhvFtHkv7",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 469.34375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Recupera as ultimas alterações do remoto,"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "mas não faz merge automático"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBeAnj7y",
+			"typeName": "shape"
+		},
+		{
+			"x": 1968.0669892059113,
+			"y": 91.24082458787831,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FVw5sd9N7MqTKWgiM5wGp",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "light-green",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 22.213188836473932,
+					"y": 4.1300296516055823e-14
+				},
+				"end": {
+					"x": 482.38416476033854,
+					"y": 4.1300296516055823e-14
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "dot",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "sans",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a6b8e",
+			"typeName": "shape"
+		},
+		{
+			"x": 107.33333587646484,
+			"y": 203.18750953674316,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:f7Vb5U8FGIioYegmhUnfG",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 342.46875,
+				"font": "sans",
+				"textAlign": "middle",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Sistema de controle de versão distribuído"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "(DVCS)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Linus Torvalds - 2005"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a31zS",
+			"typeName": "shape"
+		},
+		{
+			"x": 1391.6750529502945,
+			"y": 38.44958306671887,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:pBer4gSY62gCUnlIuBOHI",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 534.5963637263886,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.9159014043279692,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Configurando Git"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1JWD",
+			"typeName": "shape"
+		},
+		{
+			"x": 2487.309101562055,
+			"y": 313.83473318900815,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kzV6m_KTvWgbj_x9MPPc0",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 238.3125,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Iniciar um repositório"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBZWY",
+			"typeName": "shape"
+		},
+		{
+			"x": 2487.309101562055,
+			"y": 1163.4715468191703,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qcbEcbpWqjaIDqYlmGRTv",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 474.6458435058594,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Exibe o histórico de commits do repositório"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe02vnP",
+			"typeName": "shape"
+		},
+		{
+			"x": -2056.982968473867,
+			"y": 39.690952856091485,
+			"z": 0.3566503178660583,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 94.75186109985805,
+			"y": 397.7357747322944,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:BWM-FjQdXSSMAaVsx1Vtu",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 372.85606577099475,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "bulletList",
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Permite a criação de branches para isolar o desenvolvimento de novos recursos ou correções de bugs"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a7gxm",
+			"typeName": "shape"
+		},
+		{
+			"x": 95.09647174450629,
+			"y": 38.44958306671887,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VyM9Ravit0Ee3sSkiFNsH",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 202.03125,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.9159014043279692,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Git e GitHub"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 2490.413501203896,
+			"y": 1208.652105849436,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:v1NxxrHTFNPc1QHqciDWi",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git log"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0hpdE1A",
+			"typeName": "shape"
+		},
+		{
+			"x": 54.01674218350439,
+			"y": 38.52495531098733,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:u5-WUI4J9gWSX04t3B25i",
+			"type": "geo",
+			"props": {
+				"w": 452.2329559005306,
+				"h": 104.8144063122265,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "light-green",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "xl",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "Zz8Cp",
+			"typeName": "shape"
+		},
+		{
+			"x": 2452.585085261962,
+			"y": 38.52495531098733,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2PV5cwYhx3r3lo40EBup5",
+			"type": "geo",
+			"props": {
+				"w": 552.0543436293227,
+				"h": 104.8144063122265,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "light-green",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "xl",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ZzuOc5eX",
+			"typeName": "shape"
+		},
+		{
+			"x": 4124.926684732009,
+			"y": 460.8848758182734,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OxxCvSgvCnNUzlh68cZBG",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 421.4583435058594,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Envia os commits locais para o remoto"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe94OL5",
+			"typeName": "shape"
+		},
+		{
+			"x": 3348.0759297532827,
+			"y": 506.065434848539,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QjcXT2FLHIfIyeO-Hn40d",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git branch [nome-da-branch]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iG8NAx",
+			"typeName": "shape"
+		},
+		{
+			"x": 1319.1442938668497,
+			"y": 153.85625181283922,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6EEcET_j6zGGPT7-5Gq9a",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "light-green",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 22.213188836473932,
+					"y": 4.1300296516055823e-14
+				},
+				"end": {
+					"x": 22.213188836473975,
+					"y": 394.5773632968854
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "dot",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "sans",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a6wflYwV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1409.0209860658363,
+			"y": 247.90140012456277,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:kowQ8JqcA7VL06NlZGa6W",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 80.58333587646484,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "git config --global user.name \"tarso\""
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "git config --global user.email \"tarso@email.com\""
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a08um",
+			"typeName": "shape"
+		},
+		{
+			"x": 1365.9959357353637,
+			"y": 38.52495531098733,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ia0M9wWdEkBhTvGl963Kk",
+			"type": "geo",
+			"props": {
+				"w": 621.8590961606268,
+				"h": 104.8144063122265,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "light-green",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "xl",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "ZzfsT",
+			"typeName": "shape"
+		},
+		{
+			"x": 1405.916586423995,
+			"y": 202.72084109429693,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3ZoeyYhoEZTLfk4UFYMRR",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 422.6875,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Configurando nome de usuário e email"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBA82",
+			"typeName": "shape"
+		},
+		{
+			"x": 2490.413501203896,
+			"y": 682.4390497938928,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZlizdQCxd6fe6FrgWyj0f",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git add ."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0hGIEXI",
+			"typeName": "shape"
+		},
+		{
+			"x": 255.99999237060547,
+			"y": 174.80209732055664,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GtCD4-_MVshUGXP7NbwIA",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 41.614585876464844,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "GIT"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a244Z",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:kzV6m_KTvWgbj_x9MPPc0"
+			],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 3344.9715301114416,
+			"y": 460.8848758182734,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:S5PmDqWJJmG4UEkwW8LHL",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 251.25,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Cria uma novav branch"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe8NGCx",
+			"typeName": "shape"
+		},
+		{
+			"x": 3344.9715301114416,
+			"y": 615.2679500803783,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:aZrjF06foFlmiDLYdJP27",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 375.9375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Altera para uma branch específica"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe9lFEx",
+			"typeName": "shape"
+		},
+		{
+			"x": 94.75186109985805,
+			"y": 309.00407002379313,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zqsS5ztvQ0ixCwQr_1Opx",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 372.85606577099475,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "bulletList",
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Rastreia as alterações e gerencia o controle de versão localmente em sua máquina"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a73qo",
+			"typeName": "shape"
+		},
+		{
+			"x": 3348.0759297532827,
+			"y": 808.3765669074066,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:EmqXnscXDdL_rccRtkzhE",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git merge [branch]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iMlCOj",
+			"typeName": "shape"
+		},
+		{
+			"x": 4126.385797397765,
+			"y": 212.32084553930179,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VbVZ3p8Poq0fwDcLGv3Vj",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 165.80531044432814,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.9159014043279692,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Remoto"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1aALwtE",
+			"typeName": "shape"
+		},
+		{
+			"x": 2487.309101562055,
+			"y": 637.2584907636269,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:D6dSB1RgW8dWEFBlBg_Td",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 762.0208740234375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Adicionar alterações ao 'staging area' para prepará-las para o commit"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBdowftl",
+			"typeName": "shape"
+		},
+		{
+			"x": 2490.413501203896,
+			"y": 359.015292219274,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tDM6xrP7Hf0XF_Yz6jM_H",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "git init"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0TaG",
+			"typeName": "shape"
+		},
+		{
+			"x": 3346.43062474512,
+			"y": 212.32084553930179,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:LsI3i5DeYoLH_4mkRvpvU",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 199.79259332007604,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.9159014043279692,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Branches"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1Z3Xicf",
+			"typeName": "shape"
+		},
+		{
+			"x": 1409.0209860658363,
+			"y": 414.819688753309,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QD8ZhR0pAw4HY82wPCdr6",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "code"
+										}
+									],
+									"text": "git config --list"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0loy",
+			"typeName": "shape"
+		},
+		{
+			"x": 4124.926684732009,
+			"y": 316.92671508614137,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:utmiiS7-ynObqSJze7MRU",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 615.4479370117188,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Atualiza o repositório local com as alterações do remoto"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe6zL6a",
+			"typeName": "shape"
+		},
+		{
+			"x": 3344.9715301114416,
+			"y": 316.92671508614137,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:luuYcbqNkTHXececj1opp",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 601.8021240234375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Lista todas as branches locais e destaca a branch atual"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBe5b6rL",
+			"typeName": "shape"
+		},
+		{
+			"x": 2475.0868454476536,
+			"y": 38.44958306671887,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7y8OFI6CkEZzpmw5WOxH1",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 445.42713868951466,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.9159014043279692,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Comandos Git"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1SOg3jD",
+			"typeName": "shape"
+		},
+		{
+			"x": 1405.916586423995,
+			"y": 162.34682864626294,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZY6sAun8isRubDsUl7oMa",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 406.7708435058594,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Após a instalação do Git na máquina:"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBfFk",
+			"typeName": "shape"
+		},
+		{
+			"x": 44.067521708017466,
+			"y": 153.85625181283922,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KF34OKeazvepPJe24Yzxr",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "light-green",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 22.213188836473932,
+					"y": 4.1300296516055823e-14
+				},
+				"end": {
+					"x": 22.213188836473975,
+					"y": 394.5773632968854
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "dot",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "sans",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a70GHob4",
+			"typeName": "shape"
+		},
+		{
+			"x": 574.8342390271141,
+			"y": 165,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:yDgzeRp8buRw7O6VHlzqL",
+			"type": "geo",
+			"props": {
+				"w": 371.3333511352539,
+				"h": 129.00003051757812,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "light-green",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "sans",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a5BKb",
+			"typeName": "shape"
+		},
+		{
+			"x": 2482.9651683214256,
+			"y": 212.32084553930179,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6Oq1q7hIluWQ92KmSKwxF",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 164.1887686344264,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.9159014043279692,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Básicos"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1WpvCKx",
+			"typeName": "shape"
+		},
+		{
+			"x": 4128.03108437385,
+			"y": 840.9316878436462,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PChJ0nPNiaeG7LyiaxIfs",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git merge [branch]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iNreKC",
+			"typeName": "shape"
+		},
+		{
+			"x": 95.33333587646484,
+			"y": 165,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OhqVXKUTSdwjjbJVO3gr7",
+			"type": "geo",
+			"props": {
+				"w": 371.3333511352539,
+				"h": 129.00003051757812,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "light-green",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "sans",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a4AeB",
+			"typeName": "shape"
+		},
+		{
+			"x": 488.41759457608885,
+			"y": 91.24082458787831,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:in09Bu3czJwa-XC7MQbFB",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "light-green",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 22.213188836473932,
+					"y": 4.1300296516055823e-14
+				},
+				"end": {
+					"x": 855.7470154759616,
+					"y": 4.1300296516055823e-14
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "dot",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "sans",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a64aN",
+			"typeName": "shape"
+		},
+		{
+			"x": 2487.309101562055,
+			"y": 983.5483717577065,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:pnJZrxu6W7xDQoWeFoDik",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 622.34375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Exibe o estado atual do repositório, indicando alterações"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ou não em arquivos"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBeB97Kr",
+			"typeName": "shape"
+		},
+		{
+			"x": 4128.03108437385,
+			"y": 506.065434848539,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9y8BeyvmkjxJgEh3Lj2nz",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git push [remote] [branch]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iILLSE",
+			"typeName": "shape"
+		},
+		{
+			"x": 2487.309101562055,
+			"y": 792.5062069738354,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gAa2d59Mmv0E7GkZae5aN",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 691.125,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Realiza um commit com as alterações adicionadas, juntamente"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "com uma mensagem que descreve as mudanças"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBeXLKy9",
+			"typeName": "shape"
+		},
+		{
+			"x": 2423.4516065283055,
+			"y": 153.85625181283922,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:u5X_S6cz6i5-9U1dP2AkY",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "light-green",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 22.213188836473932,
+					"y": 4.1300296516055823e-14
+				},
+				"end": {
+					"x": 22.213188836474146,
+					"y": 1317.7843830849627
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "dot",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "sans",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a6pUj6cs",
+			"typeName": "shape"
+		},
+		{
+			"x": 2487.309101562055,
+			"y": 474.2138116260851,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MItmT0sWchx4kKSwXDu-P",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 595.53125,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Clonar um repositório Git remoto para a máquina local"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBcO946j",
+			"typeName": "shape"
+		},
+		{
+			"x": 4124.926684732009,
+			"y": 615.2679500803783,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:G-u-BJtezSifbpdUKZMU5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 466.4375,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Lista os repositórios remotos configurados"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBeA6oy0",
+			"typeName": "shape"
+		},
+		{
+			"x": 2490.413501203896,
+			"y": 519.3943706563509,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rtf_8eu0Vw-OhGM2fJb1P",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git clone [URL]"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0chc6ac",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"x": 2490.413501203896,
+			"y": 873.0775860521491,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:N-VcJUVZx2VxScOG_xLkJ",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git commit -m \"mensagem\""
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0jXdHGN",
+			"typeName": "shape"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:size": "xl",
+				"tldraw:font": "serif",
+				"tldraw:textAlign": "start",
+				"tldraw:geo": "rectangle",
+				"tldraw:color": "light-green",
+				"tldraw:arrowheadEnd": "dot",
+				"tldraw:fill": "solid",
+				"tldraw:dash": "dotted",
+				"tldraw:horizontalAlign": "start"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1010,
+				"h": 572
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.5,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 577.102399323156,
+			"y": 429.4911659049596,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UKERBXQO9FC5yz92cfI0N",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 372.85606577099475,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "bulletList",
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Permite os 'forks', que são cópias independentes do repositório, permitindo contribuições sem alterar o repositório original"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aA5rL",
+			"typeName": "shape"
+		},
+		{
+			"x": 577.102399323156,
+			"y": 309.00407002379313,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hdUhEjFkpI5G8OIFkUBti",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 372.85606577099475,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "bulletList",
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Hospeda repositórios Git remotamente"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a83Mz",
+			"typeName": "shape"
+		},
+		{
+			"x": 4128.03108437385,
+			"y": 362.107274116407,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GYFJMIbhs6X9szDFLTWva",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git pull"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iBiYna",
+			"typeName": "shape"
+		},
+		{
+			"x": 1405.916586423995,
+			"y": 369.63912972304314,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:t6TalF6kfF6vJ7pE-u1Ta",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 254.3229217529297,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Listando configurações"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aC4f4",
+			"typeName": "shape"
+		},
+		{
+			"x": 4128.03108437385,
+			"y": 660.448509110644,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:5kenPAidJoCkc4hfy0--6",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git remote -v"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iLeou0",
+			"typeName": "shape"
+		},
+		{
+			"x": 577.102399323156,
+			"y": 343.3821318051522,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RLyvUJAxGDaOz_vBHyiCb",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "s",
+				"w": 372.85606577099475,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "bulletList",
+							"content": [
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Recursos de 'pull requests', revisão discutir e mesclar para melhorar o código e colaboração"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a9AHB",
+			"typeName": "shape"
+		},
+		{
+			"x": 2490.413501203896,
+			"y": 1062.359969468816,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:i0zWH21T609_Zxb0K22kU",
+			"type": "geo",
+			"props": {
+				"w": 554.976337035991,
+				"h": 56.29166793823242,
+				"geo": "rectangle",
+				"dash": "solid",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "s",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "git status"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a0iOxwNy",
+			"typeName": "shape"
+		}
+	]
+}
