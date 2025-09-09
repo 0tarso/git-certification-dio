@@ -36,9 +36,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 5510.352338521202,
-			"y": 719.1652839077749,
-			"lastActivityTimestamp": 1757386109454,
+			"x": 1396.453513274278,
+			"y": 935.5698097129589,
+			"lastActivityTimestamp": 1757386314248,
 			"meta": {}
 		},
 		{
@@ -704,9 +704,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -3563.257632882758,
-			"y": -190.51858310922736,
-			"z": 0.2547385078720985,
+			"x": 1025.5562256485691,
+			"y": 586.5627789358889,
+			"z": 0.16713393501488383,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -1066,8 +1066,8 @@
 					"y": 4.1300296516055823e-14
 				},
 				"end": {
-					"x": 22.213188836473975,
-					"y": 394.5773632968854
+					"x": 22.213188836473968,
+					"y": 777.1929781287121
 				},
 				"arrowheadStart": "none",
 				"arrowheadEnd": "dot",
@@ -1320,9 +1320,9 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:0fdQ_MDOaSUpT4Wopp7wZ"
+				"shape:6EEcET_j6zGGPT7-5Gq9a"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:6EEcET_j6zGGPT7-5Gq9a",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -2697,8 +2697,8 @@
 					"y": 4.1300296516055823e-14
 				},
 				"end": {
-					"x": 22.213188836474146,
-					"y": 1317.7843830849627
+					"x": 22.213188836474018,
+					"y": 1218.1173159086368
 				},
 				"arrowheadStart": "none",
 				"arrowheadEnd": "dot",
@@ -2919,7 +2919,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "grabbing",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -2929,8 +2929,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1010,
-				"h": 322
+				"w": 1333.5999755859375,
+				"h": 458.3999938964844
 			},
 			"insets": [
 				false,
@@ -2945,7 +2945,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 1.5,
+			"devicePixelRatio": 1.25,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
