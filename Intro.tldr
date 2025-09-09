@@ -36,9 +36,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 3139.2755689951546,
-			"y": 286.4922300792855,
-			"lastActivityTimestamp": 1757381128348,
+			"x": 4809.359230078745,
+			"y": 690.6100527373992,
+			"lastActivityTimestamp": 1757385383640,
 			"meta": {}
 		},
 		{
@@ -193,7 +193,7 @@
 					"y": 4.1300296516055823e-14
 				},
 				"end": {
-					"x": 1066.886165038893,
+					"x": 1817.6704660621126,
 					"y": 4.1300296516055823e-14
 				},
 				"arrowheadStart": "none",
@@ -212,6 +212,50 @@
 			},
 			"parentId": "page:page",
 			"index": "a6iJgkLw",
+			"typeName": "shape"
+		},
+		{
+			"x": 4787.267585241387,
+			"y": 153.85625181283922,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VgIjFlnPgkKyFpWCeY_ob",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "draw",
+				"size": "m",
+				"fill": "none",
+				"color": "light-green",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 22.213188836473932,
+					"y": 4.1300296516055823e-14
+				},
+				"end": {
+					"x": 22.213188836474146,
+					"y": 1317.7843830849627
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "dot",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "sans",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a6t5FVWp",
 			"typeName": "shape"
 		},
 		{
@@ -621,9 +665,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -2056.982968473867,
-			"y": 39.690952856091485,
-			"z": 0.3566503178660583,
+			"x": -2267.589740874616,
+			"y": 231.78235523044657,
+			"z": 0.2247778079208637,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -1198,7 +1242,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:kzV6m_KTvWgbj_x9MPPc0"
+				"shape:VgIjFlnPgkKyFpWCeY_ob"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -1458,6 +1502,43 @@
 			},
 			"parentId": "page:page",
 			"index": "aBdowftl",
+			"typeName": "shape"
+		},
+		{
+			"x": 4851.393024581201,
+			"y": 38.52495531098733,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AP8B_ZD6PiMH0Q9w1Jjg5",
+			"type": "geo",
+			"props": {
+				"w": 705.8061400362938,
+				"h": 104.8144063122265,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "light-green",
+				"labelColor": "black",
+				"fill": "solid",
+				"size": "xl",
+				"font": "sans",
+				"align": "start",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a01ehBdF",
 			"typeName": "shape"
 		},
 		{
@@ -2397,7 +2478,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "move",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -2408,7 +2489,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 1010,
-				"h": 572
+				"h": 422
 			},
 			"insets": [
 				false,
@@ -2662,6 +2743,45 @@
 			},
 			"parentId": "page:page",
 			"index": "a0iLeou0",
+			"typeName": "shape"
+		},
+		{
+			"x": 4873.894784766893,
+			"y": 38.44958306671887,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:N77MKY0vXTUaAdHyGcJUN",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 635.7799066424595,
+				"font": "sans",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1.9159014043279692,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Conectando via SSH"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a1UcIiVo",
 			"typeName": "shape"
 		},
 		{
